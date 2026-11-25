@@ -264,6 +264,11 @@
       "rgba(122, 77, 255, 0.22)",
       "rgba(122, 77, 255, 0.22)"
     ]
+    "MOBILE_TEXT_HEADING_PRIMARY": [
+      "#A082DE",
+      "#A082DE",
+      "#A082DE"
+    ]
   },
   "rawColors": {
     "BRAND_500": "#7A4DFF",
