@@ -1,0 +1,341 @@
+{
+  "name": "Glass - Mid dark Violet Profile",
+  "description": "Normal Crystal Glass theme with a mid-dark violet profile page and a pale champagne name",
+  "authors": [
+    {
+      "name": "Aly",
+      "id": "0"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#F2F2F7",
+      "#F2F2F7",
+      "#F2F2F7"
+    ],
+    "HEADER_SECONDARY": [
+      "#A9B0D0",
+      "#A9B0D0",
+      "#A9B0D0"
+    ],
+    "TEXT_NORMAL": [
+      "#ECECF4",
+      "#ECECF4",
+      "#ECECF4"
+    ],
+    "TEXT_MUTED": [
+      "#8D95B8",
+      "#8D95B8",
+      "#8D95B8"
+    ],
+    "TEXT_LINK": [
+      "#8FC5FF",
+      "#8FC5FF",
+      "#8FC5FF"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#B9C0E0",
+      "#B9C0E0",
+      "#B9C0E0"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#FFFFFF",
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#B9A2FF",
+      "#B9A2FF",
+      "#B9A2FF"
+    ],
+    "CHANNEL_ICON": [
+      "#9FA8CF",
+      "#9FA8CF",
+      "#9FA8CF"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#7D86AB",
+      "#7D86AB",
+      "#7D86AB"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "rgba(8, 8, 14, 0.25)",
+      "rgba(8, 8, 14, 0.25)",
+      "rgba(8, 8, 14, 0.25)"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "rgba(12, 12, 20, 0.40)",
+      "rgba(12, 12, 20, 0.40)",
+      "rgba(12, 12, 20, 0.40)"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "rgba(12, 12, 20, 0.40)",
+      "rgba(12, 12, 20, 0.40)",
+      "rgba(12, 12, 20, 0.40)"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "rgba(5, 5, 10, 0.55)",
+      "rgba(5, 5, 10, 0.55)",
+      "rgba(5, 5, 10, 0.55)"
+    ],
+    "BACKGROUND_ACCENT": [
+      "rgba(255, 255, 255, 0.10)",
+      "rgba(255, 255, 255, 0.10)",
+      "rgba(255, 255, 255, 0.10)"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "rgba(8, 8, 14, 0.25)",
+      "rgba(8, 8, 14, 0.25)",
+      "rgba(8, 8, 14, 0.25)"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "rgba(12, 12, 20, 0.40)",
+      "rgba(12, 12, 20, 0.40)",
+      "rgba(12, 12, 20, 0.40)"
+    ],
+    "CHAT_BACKGROUND": [
+      "rgba(0, 0, 0, 0.0)",
+      "rgba(0, 0, 0, 0.0)",
+      "rgba(0, 0, 0, 0.0)"
+    ],
+    "BG_BASE_PRIMARY": [
+      "rgba(8, 8, 14, 0.25)",
+      "rgba(8, 8, 14, 0.25)",
+      "rgba(8, 8, 14, 0.25)"
+    ],
+    "BG_BASE_SECONDARY": [
+      "rgba(12, 12, 20, 0.40)",
+      "rgba(12, 12, 20, 0.40)",
+      "rgba(12, 12, 20, 0.40)"
+    ],
+    "BG_BACKDROP": [
+      "rgba(0, 0, 0, 0.60)",
+      "rgba(0, 0, 0, 0.60)",
+      "rgba(0, 0, 0, 0.60)"
+    ],
+    "CARD_PRIMARY_BG": [
+      "rgba(255, 255, 255, 0.06)",
+      "rgba(255, 255, 255, 0.06)",
+      "rgba(255, 255, 255, 0.06)"
+    ],
+    "CARD_SECONDARY_BG": [
+      "rgba(255, 255, 255, 0.04)",
+      "rgba(255, 255, 255, 0.04)",
+      "rgba(255, 255, 255, 0.04)"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.05)",
+      "rgba(255, 255, 255, 0.05)",
+      "rgba(255, 255, 255, 0.05)"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.07)",
+      "rgba(255, 255, 255, 0.07)",
+      "rgba(255, 255, 255, 0.07)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.11)",
+      "rgba(255, 255, 255, 0.11)",
+      "rgba(255, 255, 255, 0.11)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(122, 77, 255, 0.28)",
+      "rgba(122, 77, 255, 0.28)",
+      "rgba(122, 77, 255, 0.28)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "rgba(255, 255, 255, 0.10)",
+      "rgba(255, 255, 255, 0.10)",
+      "rgba(255, 255, 255, 0.10)"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "rgba(255, 255, 255, 0.10)",
+      "rgba(255, 255, 255, 0.10)",
+      "rgba(255, 255, 255, 0.10)"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "rgba(255, 255, 255, 0.08)",
+      "rgba(255, 255, 255, 0.08)",
+      "rgba(255, 255, 255, 0.08)"
+    ],
+    "BACKGROUND_BASE_LOW": [
+      "rgba(12, 12, 20, 0.40)",
+      "rgba(12, 12, 20, 0.40)",
+      "rgba(12, 12, 20, 0.40)"
+    ],
+    "BACKGROUND_BASE_LOWER": [
+      "rgba(12, 12, 20, 0.40)",
+      "rgba(12, 12, 20, 0.40)",
+      "rgba(12, 12, 20, 0.40)"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "rgba(5, 5, 10, 0.50)",
+      "rgba(5, 5, 10, 0.50)",
+      "rgba(5, 5, 10, 0.50)"
+    ],
+    "BACKGROUND_SURFACE_HIGH": [
+      "rgba(255, 255, 255, 0.06)",
+      "rgba(255, 255, 255, 0.06)",
+      "rgba(255, 255, 255, 0.06)"
+    ],
+    "BACKGROUND_SURFACE_HIGHER": [
+      "rgba(255, 255, 255, 0.09)",
+      "rgba(255, 255, 255, 0.09)",
+      "rgba(255, 255, 255, 0.09)"
+    ],
+    "BACKGROUND_SURFACE_HIGHEST": [
+      "rgba(255, 255, 255, 0.12)",
+      "rgba(255, 255, 255, 0.12)",
+      "rgba(255, 255, 255, 0.12)"
+    ],
+    "BG_BASE_TERTIARY": [
+      "rgba(5, 5, 10, 0.50)",
+      "rgba(5, 5, 10, 0.50)",
+      "rgba(5, 5, 10, 0.50)"
+    ],
+    "BG_SURFACE_RAISED": [
+      "rgba(255, 255, 255, 0.06)",
+      "rgba(255, 255, 255, 0.06)",
+      "rgba(255, 255, 255, 0.06)"
+    ],
+    "BG_SURFACE_OVERLAY": [
+      "rgba(16, 16, 26, 0.80)",
+      "rgba(16, 16, 26, 0.80)",
+      "rgba(16, 16, 26, 0.80)"
+    ],
+    "BG_SURFACE_OVERLAY_TMP": [
+      "rgba(16, 16, 26, 0.80)",
+      "rgba(16, 16, 26, 0.80)",
+      "rgba(16, 16, 26, 0.80)"
+    ],
+    "BG_MOD_FAINT": [
+      "rgba(255, 255, 255, 0.04)",
+      "rgba(255, 255, 255, 0.04)",
+      "rgba(255, 255, 255, 0.04)"
+    ],
+    "BG_MOD_SUBTLE": [
+      "rgba(255, 255, 255, 0.07)",
+      "rgba(255, 255, 255, 0.07)",
+      "rgba(255, 255, 255, 0.07)"
+    ],
+    "BG_MOD_STRONG": [
+      "rgba(255, 255, 255, 0.12)",
+      "rgba(255, 255, 255, 0.12)",
+      "rgba(255, 255, 255, 0.12)"
+    ],
+    "INPUT_BACKGROUND": [
+      "rgba(255, 255, 255, 0.07)",
+      "rgba(255, 255, 255, 0.07)",
+      "rgba(255, 255, 255, 0.07)"
+    ],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "rgba(255, 255, 255, 0.07)",
+      "rgba(255, 255, 255, 0.07)",
+      "rgba(255, 255, 255, 0.07)"
+    ],
+    "BACKGROUND_FLOATING": [
+      "rgba(16, 16, 26, 0.85)",
+      "rgba(16, 16, 26, 0.85)",
+      "rgba(16, 16, 26, 0.85)"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "rgba(16, 16, 26, 0.85)",
+      "rgba(16, 16, 26, 0.85)",
+      "rgba(16, 16, 26, 0.85)"
+    ],
+    "BORDER_FAINT": [
+      "rgba(255, 255, 255, 0.08)",
+      "rgba(255, 255, 255, 0.08)",
+      "rgba(255, 255, 255, 0.08)"
+    ],
+    "BORDER_SUBTLE": [
+      "rgba(255, 255, 255, 0.12)",
+      "rgba(255, 255, 255, 0.12)",
+      "rgba(255, 255, 255, 0.12)"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "rgba(122, 77, 255, 0.16)",
+      "rgba(122, 77, 255, 0.16)",
+      "rgba(122, 77, 255, 0.16)"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "rgba(122, 77, 255, 0.22)",
+      "rgba(122, 77, 255, 0.22)",
+      "rgba(122, 77, 255, 0.22)"
+    ],
+    "MOBILE_TEXT_HEADING_PRIMARY": [
+      "#DDC9A0",
+      "#DDC9A0",
+      "#DDC9A0"
+    ],
+    "USER_PROFILE_ABOUT_ME_HEADING_TEXT": [
+      "#DDC9A0",
+      "#DDC9A0",
+      "#DDC9A0"
+    ],
+    "BACKGROUND_PROFILE": [
+      "rgba(18, 9, 48, 0.91)",
+      "rgba(18, 9, 48, 0.91)",
+      "rgba(18, 9, 48, 0.91)"
+    ],
+    "PROFILE_BACKGROUND": [
+      "rgba(18, 9, 48, 0.91)",
+      "rgba(18, 9, 48, 0.91)",
+      "rgba(18, 9, 48, 0.91)"
+    ],
+    "USER_PROFILE_GRADIENT_BACKGROUND": [
+      "#120931E9",
+      "#120931E9",
+      "#120931E9"
+    ],
+    "USER_PROFILE_CONTAINER_BACKGROUND": [
+      "#140935A8",
+      "#140935A8",
+      "#140935A8"
+    ],
+    "GUILD_PROFILE_BANNER_BACKGROUND_DEFAULT": [
+      "#120930",
+      "#120930",
+      "#120930"
+    ]
+  },
+  "rawColors": {
+    "BRAND_500": "#7A4DFF",
+    "BRAND_530": "#6C42EE",
+    "BRAND_360": "#C4B0FF",
+    "BRAND_400": "#A98BFF",
+    "BRAND_430": "#9570FF",
+    "BRAND_460": "#8559FF",
+    "BRAND_560": "#5E37DA",
+    "BRAND_600": "#512DC4",
+    "BRAND_630": "#4524AB",
+    "BRAND_660": "#3A1D92",
+    "BRAND_700": "#2F1779",
+    "BRAND_730": "#271261",
+    "BRAND_760": "#200F52",
+    "BRAND_800": "#190B42",
+    "BRAND_830": "#140836",
+    "BRAND_860": "#0F062B",
+    "BRAND_900": "#0B0420",
+    "PRIMARY_300": "#B7BEDD",
+    "PRIMARY_400": "#9AA3C7",
+    "PRIMARY_500": "#7D86AB",
+    "PRIMARY_560": "#4A5075",
+    "PRIMARY_600": "#16162A",
+    "PRIMARY_630": "#10101F",
+    "PRIMARY_660": "#0C0C18",
+    "PRIMARY_700": "#090912",
+    "PRIMARY_730": "#07070E",
+    "PRIMARY_760": "#06060B",
+    "PRIMARY_800": "#050509",
+    "PRIMARY_830": "#040407",
+    "PRIMARY_860": "#030305",
+    "PRIMARY_900": "#020203"
+  },
+  "background": {
+    "blur": 0.35,
+    "url": "https://raw.githubusercontent.com/aly1977156/Mobile-gt6-configurations/main/telegram-violet-glow-calm.png",
+    "alpha": 1
+  }
+}
